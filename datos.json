@@ -1,0 +1,87 @@
+
+[
+  {
+    "hora_inicio": "5:00",
+    "hora_fin": "8:00",
+    "ventana_1": "Fernanda, de 27 años, se alista para su primer día en su nuevo trabajo.",
+    "ventana_2": "Isabella, de 13 años, desayuna mientras organiza su maleta para el colegio.",
+    "ventana_3": "Simón, de 16 años, se despierta y se prepara para ir al colegio.",
+    "ventana_4": "Josué, de 50 años, se prepara para comenzar su jornada como conductor.",
+    "audio_ventana_1": "assets/ducha.mp3",
+    "audio_ventana_2": "assets/1. IsabellaDesayuna.mp3",
+    "audio_ventana_3": "assets/SimonAlarma.mp3",
+    "audio_ventana_4": "assets/1. JosueLevantandose.mp3"
+  },
+  {
+    "hora_inicio": "8:00",
+    "hora_fin": "12:00",
+    "ventana_1": "Fernanda, de 27 años, no está en casa, está en su nuevo trabajo.",
+    "ventana_2": "Isabella, de 13 años, va en el bus hacia su colegio.",
+    "ventana_3": "Simón, de 16 años, está en clase en su colegio.",
+    "ventana_4": "Josué, de 50 años, maneja su carro mientras escucha las noticias en la radio.",
+    "audio_ventana_1": "assets/2. FernandaCasaSola.mp3",
+    "audio_ventana_2": "assets/2. IsabellaBus.mp3",
+    "audio_ventana_3": "assets/2. SimonClase.mp3",
+    "audio_ventana_4": "assets/JosueRadio.mp3"
+  },
+  {
+    "hora_inicio": "12:00",
+    "hora_fin": "14:00",
+    "ventana_1": "Fernanda, de 27 años, quiere salir a comer, pero su jefe no la deja.",
+    "ventana_2": "Isabella, de 13 años, almuerza con sus compañeros después de las clases de la mañana.",
+    "ventana_3": "Simón, de 16 años, aprovecha el descanso para almorzar en el colegio.",
+    "ventana_4": "Josué, de 50 años, hace una pausa en su trabajo para almorzar.",
+    "audio_ventana_1": "assets/3. FernandaHambre.mp3",
+    "audio_ventana_2": "assets/",
+    "audio_ventana_3": "assets/",
+    "audio_ventana_4": "assets/"
+  },
+  {
+    "hora_inicio": "14:00",
+    "hora_fin": "17:00",
+    "ventana_1": "Fernanda, de 27 años, continúa trabajando y empieza a sentirse cansada.",
+    "ventana_2": "Isabella, de 13 años, llega a casa, se cambia y sale para el gimnasio.",
+    "ventana_3": "Simón, de 16 años, vuelve del colegio y adelanta sus tareas.",
+    "ventana_4": "Josué, de 50 años, sigue manejando mientras escucha música en la radio.",
+    "audio_ventana_1": "assets/",
+    "audio_ventana_2": "assets/",
+    "audio_ventana_3": "assets/",
+    "audio_ventana_4": "assets/"
+  },
+  {
+    "hora_inicio": "17:00",
+    "hora_fin": "19:00",
+    "ventana_1": "Fernanda, de 27 años, termina su jornada laboral y toma el transporte público para regresar a casa.",
+    "ventana_2": "Isabella, de 13 años, está entrenando gimnasia.",
+    "ventana_3": "Simón, de 16 años, mira Instagram mientras termina sus tareas.",
+    "ventana_4": "Josué, de 50 años, termina su jornada de trabajo y comienza a regresar a casa.",
+    "audio_ventana_1": "assets/",
+    "audio_ventana_2": "assets/",
+    "audio_ventana_3": "assets/",
+    "audio_ventana_4": "assets/"
+},
+  {
+    "hora_inicio": "19:00",
+    "hora_fin": "21:00",
+    "ventana_1": "Fernanda, de 27 años, llega a casa y prepara algo de comer mientras descansa.",
+    "ventana_2": "Isabella, de 13 años, regresa de gimnasia y se prepara para comer.",
+    "ventana_3": "Simón, de 16 años, come con su familia mientras habla sobre su día.",
+    "ventana_4": "Josué, de 50 años, está escuchando la radio del carro mientras se devuelve a su casa.",
+    "audio_ventana_1": "assets/cortar-vegetales.mp3",
+    "audio_ventana_2": "assets/",
+    "audio_ventana_3": "assets/",
+    "audio_ventana_4": "assets/"
+},
+  {
+    "hora_inicio": "21:00",
+    "hora_fin": "5:00",
+    "ventana_1": "Fernanda, de 27 años, se acuesta a dormir para descansar antes de su segundo día de trabajo.",
+    "ventana_2": "Isabella, de 13 años, se prepara para dormir después de terminar sus deberes.",
+    "ventana_3": "Simón, de 16 años, usa su celular un rato antes de quedarse dormido.",
+    "ventana_4": "Josué, de 50 años, descansa en su casa después de una larga jornada laboral.",
+    "audio_ventana_1": "assets/",
+    "audio_ventana_2": "assets/",
+    "audio_ventana_3": "assets/",
+    "audio_ventana_4": "assets/"
+  }
+]
